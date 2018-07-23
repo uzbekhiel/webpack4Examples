@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack",
     "build": "cross-env NODE_ENV=production webpack",
-    "server" : "webpack-dev-server"
+    "server": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
